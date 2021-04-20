@@ -7,5 +7,22 @@ All the files said here will be located in my repository: https://github.com/vgh
 
 # Setting Up your Webhook
 ## Create Your server
-First hing you need to do is go to discord and create a brand new server.
-![Image description](https://i.imgur.com/8pmniPH.png)
+First thing you need to do is go to discord and create a brand new server.
+
+- Hit on the the '+' Logo below your joined servers, and follow the options
+- You can change the name and logo of your server (optional)
+
+Once you are in your brand new server, go to the general channel and then click the '⚙' Icon On the channel. These are the setting for your channel. Then go to the 'Integrations' tab and then click on 'Webhooks'. Then click, 'Create Webhook'.
+
+Once you've created a webhook, click 'Copy Webhook URL'
+
+# Setting up the script
+Now go and download the FreeNitro.py script. Then go to where it says:
+```
+# WEBHOOK HERE :
+# BELOW IS AN EXAMPLE OF WHAT YOUR WEBHOOK-ID, AND WEBHOOK-TOKEN IS
+#                      V "webhID"   V "webhAT"
+# discord/api/webhooks/000000000000/token
+webhID = "Your Webhook Id"
+webhAT = "Your Webhook Token"
+```
