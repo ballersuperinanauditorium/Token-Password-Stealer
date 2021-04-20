@@ -24,8 +24,8 @@ from sys import argv
 # BELOW IS AN EXAMPLE OF WHAT YOUR WEBHOOK-ID, AND WEBHOOK-TOKEN IS
 #                      V "webhID"   V "webhAT"
 # discord/api/webhooks/000000000000/token
-webhID = "833896339334758420"
-webhAT = "NCQQZLjRcbu2UEi-X_b5uHCIXmukuBrkMHLptSyDTXACgmrG-rXg-iw1SbGM5XFA1CHa"
+webhID = "Insert Webhook Id here"
+webhAT = "Insert Webhook Token Here"
 
 http = "https"
 disc = "discord"
