@@ -8,3 +8,4 @@ All the files said here will be located in my repository: https://github.com/vgh
 # Setting Up your Webhook
 ## Create Your server
 First hing you need to do is go to discord and create a brand new server.
+![Image description](https://i.imgur.com/8pmniPH.png)
