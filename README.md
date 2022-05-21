@@ -1,4 +1,7 @@
 # Token-Password-Stealer
+
+##⚠️THIS PROJECT IS OUTDATED AND IS BEING REVAMPED AND WILL BE ARCHIVED, PLEASE LOOK OUT FOR A BETTER AND CURRENT VERSION OF THIS IN MY PROFILE IN THE MERE FUTURE
+
 ## Introduction
 
 I’m going to be telling you a method to grab/finesse people’s passwords, discord tokens, and their product key, and sometimes their credit card information. This method is illegal and against discord TOS. Once you get the victim’s account on discord, log in to it then delete their account. Cause of this, they cannot access your account id to report to Discord
