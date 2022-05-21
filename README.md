@@ -1,6 +1,6 @@
 # Token-Password-Stealer
 
-## ⚠️THIS PROJECT IS OUTDATED AND IS BEING REVAMPED AND WILL BE ARCHIVED, [HERE](https://github.com/vghcodesjs/Discord-Token-Stealer-v2.0) IS THE NEW REPOSITORY.
+## ⚠️THIS PROJECT IS OUTDATED AND IS BEING REVAMPED AND HAS BEEN ARCHIVED, [HERE](https://github.com/vghcodesjs/Discord-Token-Stealer-v2.0) IS THE NEW REPOSITORY.
 
 ## Introduction
 
